@@ -1,0 +1,5 @@
+{
+  "name": "Expense Tracker Pro",
+  "description": "A personal finance management web application to track income and expenses, visualize spending patterns, and receive AI-powered financial insights.",
+  "requestFramePermissions": []
+}
